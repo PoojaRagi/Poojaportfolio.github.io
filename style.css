@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.navstyling{
+    background-color: #d2e9f7;
+    height: 70px;
+    border: 1px double black;
+    border-radius: 25px;
+}
+.homestyle{
+    border: 1px double black;
+    border-radius: 25px;
+    margin-top: 30px;
+    min-height: 280px;
+    padding-bottom: 20px;
+}
+.footerstyling{
+    width: 100%;
+    min-height: 90px;
+    background-color: black;
+    border-radius: 20px;
+}
+.footerstyling > h1{
+    color: white;
+    text-align: center;
+}
+.footerstyling > h1 > a > svg{
+    color: white;
+    text-align: center;
+}
+.socialmedia > a{
+color: white;
+margin-left: 20px;
+}
+button{
+    margin-left: 80px;
+    padding: 10px;
+    background-color: #E7ECEF;
+    border: 2px solid black;
+    border-radius: 5px;
+}
